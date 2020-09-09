@@ -1,4 +1,4 @@
-# Image-Edge-Detection-Raspberry
+# Image-Edge-Processing-Raspberry
 
 ### Utilizing a Raspberry Pi3 B+ to take pictures in real time (making use of a Raspberry Pi Camera v2), process the image with the Sobel operator for edge detection and sending them to a client computer.
 
